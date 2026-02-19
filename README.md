@@ -89,8 +89,8 @@ Consistent with "Ethical Use of AI for Cybersecurity and Facing Digital Threats.
 ## Author and Contact
 
 - **Krishna** (Bengaluru, India)
-- GitHub: [krishnateja-ai](https://github.com/yourusername)
-- Email: [krishnateja.aiml@gmail.com](mailto:your.email@example.com)
-- LinkedIn: [krishna-teja-k-ai](https://www.linkedin.com/in/yourprofile)
+- GitHub: [krishnateja-ai](https://github.com/krishnateja-ai)
+- Email: [krishnateja.aiml@gmail.com](mailto:krishnateja.aiml@gmail.com)
+- LinkedIn: [krishna-teja-k-ai](https://www.linkedin.com/in/krishna-teja-k-ai)
 
 For discussions, feedback, or potential partnerships, feel free to connect. This project is under ongoing refinement and protected by proprietary license.
